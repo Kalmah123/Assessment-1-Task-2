@@ -162,7 +162,7 @@ You must document each item in “Description Process and Commands” column, li
         C. Pull
         D. Merge
  
-        Answer:A
+        Answer:A A
 
 
 # Completed Module 1 - Please commit your changes with your answers using GitHub Desktop or Visual Studio
